@@ -1,6 +1,6 @@
 # NET 6 Complete Microservices
 
-![](https://www.campusmvp.es/recursos/image.axd?picture=/2021/4T/dotnet6.png)
+![](https://i.postimg.cc/cCpZJTgn/new.jpg)
 
 ### Features & Technologies
 
